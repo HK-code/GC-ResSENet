@@ -1,0 +1,17 @@
+# data
+root: 'F:/LinuxFile/GSENet_final/datasets/'
+im_: Indian_pines_corrected
+gt_: Indian_pines_gt
+
+# general
+learning_rate: 3e-3
+epochs: 5000
+lmbd: 0.9
+gamma_r: 200
+gamma_g: 200
+A_n_neighbors: 30
+
+# best acc
+model_path: 'weights/Indian Pines/GCressenet-ACC0.972671-size13-nb13.pth'
+NEIGHBORING_SIZE: 13
+nb_comps: 13

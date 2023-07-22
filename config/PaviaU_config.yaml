@@ -1,0 +1,17 @@
+# data
+root: 'F:/LinuxFile/GSENet_final/datasets/'
+im_: PaviaU
+gt_: PaviaU_gt
+
+# general
+learning_rate: 1e-3
+epochs: 5000
+lmbd: 0.9
+gamma_r: 50
+gamma_g: 200
+A_n_neighbors: 60
+
+# best acc
+model_path: 'weights/PaviaU/GCressenet-ACC0.992863-size11-nb21.pth'
+NEIGHBORING_SIZE: 11
+nb_comps: 21

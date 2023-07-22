@@ -1,0 +1,18 @@
+# data
+root: 'F:/LinuxFile/GSENet_final/datasets/'
+im_: Houston
+gt_: Houston_gt
+
+
+# general
+learning_rate: 2e-3
+epochs: 5000
+lmbd: 0.9
+gamma_r: 200
+gamma_g: 200
+A_n_neighbors: 30
+
+# best acc
+model_path: 'weights/Houston/GSENet-ACC0.886078.pth'
+NEIGHBORING_SIZE: 9
+nb_comps: 15

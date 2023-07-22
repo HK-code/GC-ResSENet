@@ -1,0 +1,17 @@
+# data
+root: 'F:/LinuxFile/GSENet_final/datasets/'
+im_: SalinasA_corrected
+gt_: SalinasA_gt
+
+# general
+learning_rate: 3e-3
+epochs: 5000
+lmbd: 0.9
+gamma_r: 200
+gamma_g: 200
+A_n_neighbors: 30
+
+# best acc
+model_path: 'weights/SalinasA/GCressenet-ACC1.000000-size15-nb19.pth'
+NEIGHBORING_SIZE: 15
+nb_comps: 19

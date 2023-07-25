@@ -11,6 +11,19 @@ Kun Huang, Xin Li, Yingdong Pi, Hao Cheng, Guowei Xu
 ## Dataset
 SalinasA, Indian Pines and pavia university datasets you can download from [here](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Pavia_Centre_and_University), and Houston2013 dataset you can download from [here](https://hyperspectral.ee.uh.edu/?page_id=459).
 
+## Requirements
+```
+matplotlib==3.5.2
+munkres==1.1.4
+numpy==1.24.4
+numpy==1.22.4
+scikit_learn==1.2.2
+scipy==1.9.1
+torch==1.11.0+cu113
+torchsummary==1.5.1
+tqdm==4.61.2
+```
+
 ## Result
 
 ![](https://github.com/HK-code/GC-ResSENet/blob/master/images/result.jpg?raw=true)

@@ -8,6 +8,15 @@ Kun Huang, Xin Li, Yingdong Pi, Hao Cheng, Guowei Xu
 ## Dataset
 SalinasA, Indian Pines and pavia university datasets you can download from [here](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Pavia_Centre_and_University), and Houston2013 dataset you can download from [here](https://hyperspectral.ee.uh.edu/?page_id=459).
 
+## Result
+
+| Metric | SalinasA | IP | PaviaU | Houston |
+| ------ | ------ | ------ | ------ | ------ |
+| OA | 1.0000 | 0.9727 | 0.9929 | 0.9906 |
+| NMI | 1.0000 | 0.9114 | 0.9847 | 0.8907 |
+| Kappa | 1.0000 | 0.9609 | 0.9906 | 0.8738 |
+
+
 ## Training & Evaluation
 
 If you have any questions and needs, you can contact me, my email is: 2021202130068@whu.edu.cn.

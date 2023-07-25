@@ -29,6 +29,14 @@ tqdm==4.61.2
 ![](https://github.com/HK-code/GC-ResSENet/blob/master/images/result.jpg?raw=true)
 
 ## Training & Evaluation
+### Train
+```python
+python main.py
+```
+### Evaluation
+```python
+python loadmodel.py
+```
 
 ## More
 If you have any questions and needs, you can contact me, my email is: 2021202130068@whu.edu.cn.

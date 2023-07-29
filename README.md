@@ -39,4 +39,4 @@ python loadmodel.py
 ```
 
 ## More
-If you have any questions and needs, you can contact me, my email is: 2021202130068@whu.edu.cn.
+If you have any questions and needs, you can contact me, my email is: huangkun@whu.edu.cn.

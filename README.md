@@ -1,4 +1,4 @@
-# Graph-Constrained Residual Self-Expressive Network Learning for Hyperspectral Images
+# Graph-Constrained Residual Self-Expressive Subspace Clustering Network for Hyperspectral Images
 Kun Huang, Xin Li, Yingdong Pi, Hao Cheng, Guowei Xu
 
 ## Abstract
@@ -40,3 +40,16 @@ python loadmodel.py
 
 ## More
 If you have any questions and needs, you can contact me, my email is: huangkun@whu.edu.cn.
+
+## Cite
+```
+@ARTICLE{10319068,
+  author={Huang, Kun and Li, Xin and Pi, Yingdong and Cheng, Hao and Xu, Guowei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Graph-Constrained Residual Self-Expressive Subspace Clustering Network for Hyperspectral Images}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/JSTARS.2023.3333281}}
+```

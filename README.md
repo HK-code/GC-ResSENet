@@ -47,9 +47,9 @@ If you have any questions and needs, you can contact me, my email is: huangkun@w
   author={Huang, Kun and Li, Xin and Pi, Yingdong and Cheng, Hao and Xu, Guowei},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={Graph-Constrained Residual Self-Expressive Subspace Clustering Network for Hyperspectral Images}, 
-  year={2023},
-  volume={},
+  year={2024},
+  volume={17},
   number={},
-  pages={1-16},
+  pages={941-955},
   doi={10.1109/JSTARS.2023.3333281}}
 ```
